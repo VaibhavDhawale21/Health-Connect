@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">HealthConnect</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string-array name="array_technology">
+        <item>NATIONAL EMERGENCY NUMBER  112</item>
+        <item>POLICE  100</item>
+        <item>FIRE  101</item>
+        <item>AMBULANCE  102</item>
+        <item>Disaster Management Services  108</item>
+        <item>Women Helpline  1091</item>
+        <item>Women Helpline - ( Domestic Abuse )  181</item>
+        <item>Air Ambulance 9540161344</item>
+        <item>Aids Helpline  1097</item>
+        <item>Anti Poison ( New Delhi ) 1066 or 011-1066</item>
+        <item>Disaster Management ( N.D.M.A ) :1078, 01126701728</item>
+        <item>EARTHQUAKE / FLOOD / DISASTER ( N.D.R.F Headquaters ) NDRF HELPLINE NO :011-24363260 9711077372</item>
+        <item>Deputy Commissioner Of Police – Missing Child And Women  1094</item>
+        <item>Railway Enquiry  139</item>
+        <item>Senior Citizen Helpline  14567</item>
+        <item>Medical Helpline in Andhra Pradesh, Gujarat,Uttarakhand,Goa,Tamil  Nadu,Rajasthan,Karnataka,Assam,Meghalaya, M.P and U.P  - 108</item>
+        <item>Railway Accident Emergency Service  1072</item>
+        <item>Road Accident Emergency Service  1073</item>
+        <item>Road Accident Emergency Service On National Highway For Private Operators 1033</item>
+        <item>ORBO Centre, AIIMS (For Donation Of Organ) Delhi 1060</item>
+        <item>Kisan Call Centre 18001801551</item>
+        <item>Relief Commissioner For Natural Calamities  1070</item>
+        <item>Children In Difficult Situation 1098</item>
+        <item>National Poisions Information Centre - AIIMS NEW DELHI ( 24*7 )1800116117 011-26593677, 26589391</item>
+        <item>Poison Information Centre ( CMC , Vellore )18004251213</item>
+        <item>Tourist Helpline1363 or 1800111363</item>
+        <item>LPG Leak Helpline1906</item>
+        <item>KIRAN MENTAL HEALTH Helpline 18005990019</item>
+        <item>CYBER CRIME HELPLINE  155620</item>
+    </string-array>
+
+    <string-array name="article_list">
+        <item>Latest Health News Update</item>
+        <item>Health Articles and updates</item>
+        <item>Health Line News</item>
+        <item>Fitness</item>
+        <item>Diet</item>
+        <item>Mental Health</item>
+    </string-array>
+
+</resources>
